@@ -27,6 +27,7 @@
 	--peach: #fa9361;
 	--sky: #7fcbdb;
 	/* NEUTRAL COLORS */
+	--navy: #0f1d2d;
 	--ink: #101116;
 	--sand: #f4f1ea;
 	--cream: #fffaf2;
@@ -1588,11 +1589,18 @@ section {
 	color: var(--orange);
 }
 
-.hero-stat .stat-label {
+.hero-stat .strip-label {
 	display: block;
 	font-size: 0.85rem;
-	color: rgba(255, 255, 255, 0.55);
-	margin-top: 0.25rem;
+	color: rgba(255, 255, 255, 0.9);
+	margin-bottom: 0.25rem;
+}
+
+.strip-value {
+	display: block;
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: #ffffff;
 }
 
 /* Feature cards below hero */
@@ -6098,6 +6106,8 @@ footer {
 .bp-hero-scroll {
 	margin-top: 1rem;
 }
+
+
 
 .bp-scroll-link {
 	display: inline-flex;

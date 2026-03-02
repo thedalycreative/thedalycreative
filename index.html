@@ -455,10 +455,10 @@
 				<div class="home-photo-frame">
 					<img src="images/about-page/meet-tim-yellow-x886.png" alt="Tim Daly - Founder" loading="lazy" />
 					<div class="visual-overlay"></div>
-					<div class="visual-content">
-						<span class="visual-badge"><i class="fi fi-rr-star"></i> The Daly Difference</span>
-						<h3>Built for Impact</h3>
-					</div>
+				</div>
+				<div class="visual-content">
+					<span class="visual-badge"><i class="fi fi-rr-star"></i> The Daly Difference</span>
+					<h3>Built for Impact</h3>
 				</div>
 			</div>
 
@@ -634,7 +634,8 @@
 
 		.home-photo-frame {
 			width: 100%;
-			height: 85vh;
+			max-width: 500px;
+			aspect-ratio: 4 / 5;
 			position: relative;
 			border-radius: 40px;
 			overflow: hidden;
@@ -664,10 +665,18 @@
 
 		.visual-content {
 			position: absolute;
-			bottom: 4rem;
-			left: 4rem;
-			color: white;
+			bottom: 1rem;
+			left: 2rem;
+			color: var(--ink);
 			z-index: 2;
+			margin-top: 2rem;
+			position: relative;
+			text-align: left;
+		}
+
+		.visual-content h3 {
+			color: var(--ink);
+			margin-top: 0.5rem;
 		}
 
 		.visual-badge {

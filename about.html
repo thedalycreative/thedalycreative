@@ -1220,8 +1220,7 @@
 					<!-- Tile 1 -->
 					<div class="about-value-tile" data-aos="fade-up" data-aos-delay="100">
 						<div class="tile-icon-box" style="--tile-accent: var(--orange)">
-							<img src="images/icons/flavicon1-x1563.png" alt="Icon 1" class="tile-brand-icon">
-							<i class="fi fi-br-lightbulb-on"></i>
+							<img src="images/icons/flavicon1-x1563.png" alt="" class="tile-main-icon" />
 						</div>
 						<div class="tile-content">
 							<h3>Creative Strategy</h3>
@@ -1233,8 +1232,7 @@
 					<!-- Tile 2 -->
 					<div class="about-value-tile" data-aos="fade-up" data-aos-delay="200">
 						<div class="tile-icon-box" style="--tile-accent: var(--purple)">
-							<img src="images/icons/flavicon2-x1563.png" alt="Icon 2" class="tile-brand-icon">
-							<i class="fi fi-br-settings"></i>
+							<img src="images/icons/flavicon2-x1563.png" alt="" class="tile-main-icon" />
 						</div>
 						<div class="tile-content">
 							<h3>Smart Automation</h3>
@@ -1246,8 +1244,7 @@
 					<!-- Tile 3 -->
 					<div class="about-value-tile" data-aos="fade-up" data-aos-delay="300">
 						<div class="tile-icon-box" style="--tile-accent: var(--teal)">
-							<img src="images/icons/flavicon1-x1563.png" alt="Icon 1" class="tile-brand-icon">
-							<i class="fi fi-br-heart"></i>
+							<img src="images/icons/flavicon1-x1563.png" alt="" class="tile-main-icon" />
 						</div>
 						<div class="tile-content">
 							<h3>Human-First Design</h3>
@@ -1285,28 +1282,20 @@
 				}
 
 				.tile-icon-box {
-					width: 100px;
-					height: 100px;
+					width: 80px;
+					height: 80px;
 					flex-shrink: 0;
 					position: relative;
 					display: flex;
 					align-items: center;
 					justify-content: center;
+					background: var(--sand);
+					border-radius: 20px;
 				}
 
-				.tile-brand-icon {
-					position: absolute;
-					width: 100%;
-					height: 100%;
-					opacity: 0.1;
-					transform: scale(1.5) rotate(-15deg);
-					pointer-events: none;
-				}
-
-				.tile-icon-box i {
-					font-size: 2.5rem;
-					color: var(--tile-accent);
-					position: relative;
+				.tile-main-icon {
+					width: 60%;
+					height: auto;
 					z-index: 2;
 				}
 
