@@ -5822,35 +5822,60 @@ footer {
    ABOUT PAGE — MEET TIM SECTION
    ========================================================== */
 .about-meet-section {
-	padding: 6rem 0;
+	padding: 8rem 0 0;
 	background: linear-gradient(180deg, var(--cream), var(--sand));
+	position: relative;
+	overflow: hidden;
+	border-radius: 60px 60px 0 0;
+	margin-top: -60px;
+	z-index: 10;
 }
 
 .about-meet-grid {
-	display: grid;
-	grid-template-columns: 380px 1fr;
-	gap: 4rem;
-	align-items: start;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
 	max-width: 1100px;
 	margin: 0 auto;
+	position: relative;
+	z-index: 2;
 }
 
 .about-meet-visual {
-	position: relative;
+	position: absolute;
+	bottom: -10px;
+	left: -8%;
+	width: 45%;
+	min-width: 400px;
+	max-width: 600px;
+	z-index: -1;
+	animation: floatFounder 6s ease-in-out infinite;
+}
+
+@keyframes floatFounder {
+	0%, 100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-15px);
+	}
 }
 
 .about-photo-frame {
-	position: sticky;
-	top: 120px;
-	border-radius: 24px;
-	overflow: hidden;
-	box-shadow: 0 20px 60px rgba(15, 23, 42, 0.15);
+	position: relative;
+	border-radius: 0;
+	overflow: visible;
+	box-shadow: none;
 }
 
 .about-photo-frame img {
 	width: 100%;
 	height: auto;
 	display: block;
+	object-fit: contain;
+	object-position: bottom left;
+	-webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+	mask-image: linear-gradient(to right, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
 }
 
 .about-photo-accent {
@@ -5863,6 +5888,15 @@ footer {
 	background: linear-gradient(135deg, var(--orange), var(--coral));
 	opacity: 0.15;
 	z-index: -1;
+}
+
+.about-meet-text {
+	position: relative;
+	width: 60%;
+	padding: 3rem;
+	padding-bottom: 5rem;
+	background: transparent;
+	z-index: 2;
 }
 
 .about-meet-text h2 {
@@ -6111,14 +6145,40 @@ footer {
 	}
 
 	.about-meet-grid {
-		grid-template-columns: 1fr;
-		gap: 2.5rem;
+		flex-direction: column-reverse;
+		justify-content: center;
+		align-items: center;
+		gap: 2rem;
+		padding-bottom: 2rem;
+	}
+
+	.about-meet-visual {
+		position: relative;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		max-width: 100%;
+		min-width: auto;
+		z-index: 1;
+		margin-top: 2rem;
 	}
 
 	.about-photo-frame {
-		position: static;
-		max-width: 300px;
+		position: relative;
+		max-width: 80%;
 		margin: 0 auto;
+	}
+
+	.about-photo-frame img {
+		object-position: bottom center;
+		-webkit-mask-image: none;
+		mask-image: none;
+	}
+
+	.about-meet-text {
+		width: 100%;
+		padding: 2rem 1.5rem;
+		background: transparent;
 	}
 
 	.about-photo-accent {
