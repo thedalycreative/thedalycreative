@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Practical AI for Small Business | The Daly Creative</title>
+	<meta name="description"
+		content="You don't need an AI transformation strategy — you need three small workflows worth automating. A sensible starting map for small business owners." />
+	<link rel="icon" type="image/png" href="images/icons/icon-x256.png" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+	<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css" />
+	<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-rounded/css/uicons-solid-rounded.css" />
+	<link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+	<nav>
+		<div class="nav-container">
+			<a href="index.html" class="logo">
+				<img src="images/icons/logo-1300x507.png" alt="The Daly Creative" height="42" />
+			</a>
+			<input type="checkbox" id="nav-toggle" class="nav-toggle" />
+			<label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+				<span></span><span></span><span></span>
+			</label>
+			<ul class="nav-links">
+				<li data-color="orange"><a href="index.html">Home</a></li>
+				<li data-color="teal"><a href="services.html">Services</a></li>
+				<li data-color="purple"><a href="work.html">Work</a></li>
+				<li data-color="amber"><a href="process.html">Process</a></li>
+				<li data-color="blue"><a href="about.html">About</a></li>
+				<li data-color="coral"><a href="blog.html" class="active">Blog</a></li>
+				<li><a href="contact.html" class="nav-cta">Start a Project <i class="bi bi-arrow-right nav-icon"></i></a></li>
+			</ul>
+			<div class="nav-overlay" onclick="document.getElementById('nav-toggle').checked = false"></div>
+		</div>
+	</nav>
+
+	<article class="article-page">
+		<header class="article-header">
+			<div class="container container--narrow">
+				<a href="blog.html" class="article-back"><i class="bi bi-arrow-left"></i> All articles</a>
+				<div class="article-category article-category--orange">AI Strategy</div>
+				<h1>Practical AI for small business: where to start (and where not to).</h1>
+				<p class="article-deck">You don't need a "transformation strategy." You need three small workflows worth automating, in the right order, with the right guardrails.</p>
+				<div class="article-byline">
+					<span><i class="bi bi-person-circle"></i> Tim Daly</span>
+					<span><i class="bi bi-calendar3"></i> March 2026</span>
+					<span><i class="bi bi-clock"></i> 7 min read</span>
+				</div>
+			</div>
+		</header>
+
+		<div class="article-body">
+			<div class="container container--narrow">
+				<p>Every week, a small business owner asks me some version of: "should we be doing more with AI?" The honest answer is usually yes, but not in the way the headlines suggest. "Doing more with AI" doesn't mean adopting a 12-tool stack. It means looking at the five things you do every week that are repetitive, low-judgement and time-consuming — and removing the friction from one of them.</p>
+
+				<h2>Start with the boring stuff</h2>
+
+				<p>The most useful AI work I do with small businesses is almost never glamorous. It's not chatbots, not content factories, not autonomous agents. It's email drafts, meeting notes, document templates, quote follow-ups, simple data tidying. The boring stuff. The reason: the boring stuff is high-frequency, low-stakes, and easy to verify. That's exactly the shape of a problem AI is genuinely good at.</p>
+
+				<p>Headline-grabbing AI use cases tend to be high-stakes and hard to verify. Those are exactly the problems where AI underperforms quietly — and the failure mode is invisible until it isn't.</p>
+
+				<h2>The three workflows worth starting with</h2>
+
+				<p>If you want a sensible starting map, I'd suggest these three — roughly in order of effort to value:</p>
+
+				<h3>1. First-draft email and document responses</h3>
+				<p>Common, repetitive replies — quote requests, booking confirmations, FAQ responses — are an easy win. Use AI to generate a first draft based on a template plus the specific request. <em>You still send it.</em> But you spend two minutes editing instead of fifteen drafting from scratch. Saves hours per week. Low risk.</p>
+
+				<h3>2. Meeting and call summaries</h3>
+				<p>If you talk to clients regularly, recording (with consent) and auto-summarising your calls is one of the highest-leverage moves available right now. The follow-up email becomes 90% faster, action items don't get lost, and you build a searchable history of what was actually agreed. Tools like Otter, Fathom and Granola handle this well for small teams.</p>
+
+				<h3>3. Internal "what did we decide?" search</h3>
+				<p>If your team uses Google Workspace or Microsoft 365, a basic AI assistant over your own documents will save more time than any productivity hack you've tried this decade. The question "where's that file from last March?" becomes a sentence in plain English. This is genuinely transformative for businesses with more than two or three people.</p>
+
+				<h2>Where AI is the wrong tool</h2>
+
+				<p>There are a few use cases I steer clients away from until they have more experience and tighter guardrails:</p>
+
+				<ul>
+					<li><strong>Public-facing chatbots without supervision.</strong> The downside (an AI making confident promises on your behalf) is bigger than the upside. Start internal.</li>
+					<li><strong>Numerical reasoning.</strong> AI is unreliable with arithmetic, unit conversions and structured calculations. Use real software for real maths.</li>
+					<li><strong>Legal, medical, financial advice.</strong> The fluency of the output makes it easy to mistake confidence for correctness. Don't.</li>
+					<li><strong>Bulk content generation for SEO.</strong> Search engines are getting better at detecting it, and your brand is getting worse for being associated with it.</li>
+				</ul>
+
+				<h2>The two questions to ask before any AI rollout</h2>
+
+				<p>Whenever a client wants to introduce a new AI workflow, I ask two questions before anything else:</p>
+
+				<ol>
+					<li><strong>What happens when it gets it wrong?</strong> If the failure mode is "Tim sends a slightly awkward email," fine. If it's "we promise a customer something we can't deliver," that's a different conversation.</li>
+					<li><strong>How will we know it's wrong?</strong> A workflow you can't audit is a workflow you can't trust. Every AI step should have a human checkpoint or an obvious signal of failure.</li>
+				</ol>
+
+				<p>Those two questions filter out about 80% of bad ideas before they cost anyone anything.</p>
+
+				<h2>What "doing AI well" actually looks like</h2>
+
+				<p>A year from now, the businesses that benefit most from AI won't be the ones with the most tools. They'll be the ones where staff have quietly built confidence using AI on small, well-defined tasks — and have started to recognise where it helps and where it doesn't. That experience compounds. Toolchain choices don't.</p>
+
+				<p>So if you take one thing from this: pick one repetitive, low-risk task this month. Improve it with AI assistance. Pay attention to where it surprises you (good or bad). Then pick the next one. That's the unglamorous path, and it's the one that actually works.</p>
+
+				<div class="article-cta">
+					<h3>Want help mapping your three?</h3>
+					<p>I run short, practical AI-readiness sessions with small businesses — no jargon, no upsell. We look at your actual workflows and identify where AI fits and where it doesn't.</p>
+					<a href="contact.html" class="btn btn--accent">Book a session <i class="bi bi-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	<section class="blog-grid-section blog-grid-section--related">
+		<div class="container">
+			<div class="blog-grid-header reveal">
+				<span class="section-label">Keep Reading</span>
+				<h2>Related <span class="text-orange">articles</span></h2>
+			</div>
+			<div class="blog-grid">
+				<a href="blog-strategic-logic-beats-pretty-pixels.html" class="blog-card reveal reveal-delay-1">
+					<div class="blog-card-tag blog-card-tag--teal">Web Strategy</div>
+					<h3>Strategic logic beats pretty pixels every time.</h3>
+					<p>Why most "bad" websites aren't ugly — they're decisions made in the wrong order.</p>
+				</a>
+				<a href="blog-real-cost-of-a-cheap-website.html" class="blog-card reveal reveal-delay-2">
+					<div class="blog-card-tag blog-card-tag--purple">Web Development</div>
+					<h3>The real cost of a cheap website (and how to avoid paying twice).</h3>
+					<p>Four questions that protect you from a rebuild in eighteen months.</p>
+				</a>
+				<a href="blog-cyber-security-basics-perth-business.html" class="blog-card reveal reveal-delay-3">
+					<div class="blog-card-tag blog-card-tag--teal">Cyber Security</div>
+					<h3>Cyber security basics every Perth small business needs in 2026.</h3>
+					<p>The seven boring things that block 90% of attacks aimed at small businesses.</p>
+				</a>
+			</div>
+		</div>
+	</section>
+
+	<footer class="site-footer">
+		<div class="container">
+			<div class="footer-grid">
+				<div class="footer-brand">
+					<a href="index.html">
+						<img src="images/icons/logo-1300x507.png" alt="The Daly Creative" style="height: 44px; width: auto; margin-bottom: 1.25rem;" />
+					</a>
+					<p>Web design, branding, and AI strategy for ambitious businesses. Based in Fremantle, Western Australia.</p>
+					<div class="footer-socials">
+						<a href="https://www.linkedin.com/in/thetimdaly/" target="_blank" rel="noopener noreferrer" class="footer-social-link" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+						<a href="https://www.facebook.com/thedalycreative/" target="_blank" rel="noopener noreferrer" class="footer-social-link" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+						<a href="https://www.instagram.com/thedalycreative/" target="_blank" rel="noopener noreferrer" class="footer-social-link" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+					</div>
+				</div>
+				<div>
+					<h4 class="footer-heading">Services</h4>
+					<ul class="footer-links">
+						<li><a href="services.html#web-dev">Web Development</a></li>
+						<li><a href="services.html#brand-identity">Brand Identity</a></li>
+						<li><a href="ai-tools.html">AI Tools</a></li>
+						<li><a href="services.html#seo">SEO & Growth</a></li>
+						<li><a href="services.html#training">Training</a></li>
+					</ul>
+				</div>
+				<div>
+					<h4 class="footer-heading">Company</h4>
+					<ul class="footer-links">
+						<li><a href="about.html">About</a></li>
+						<li><a href="work.html">Work</a></li>
+						<li><a href="process.html">Process</a></li>
+						<li><a href="blog.html">Blog</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div>
+					<h4 class="footer-heading">Get in Touch</h4>
+					<ul class="footer-links">
+						<li><a href="mailto:contact@thetimdaly.com" class="footer-contact-item"><i class="bi bi-envelope"></i> contact@thetimdaly.com</a></li>
+						<li><span class="footer-contact-item"><i class="bi bi-geo-alt"></i> Fremantle, WA</span></li>
+					</ul>
+					<a href="contact.html" class="footer-cta">Start a Project <i class="bi bi-arrow-right"></i></a>
+				</div>
+			</div>
+			<div class="footer-bottom">
+				<p class="footer-copyright">&copy; 2026 The Daly Creative. All rights reserved.</p>
+				<div class="footer-legal">
+					<a href="terms.html">Terms of Service</a>
+					<a href="privacy.html">Privacy Policy</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script>
+		const nav = document.querySelector("nav");
+		window.addEventListener("scroll", () => {
+			nav.classList.toggle("nav--scrolled", window.scrollY > 40);
+		}, { passive: true });
+		const revealObserver = new IntersectionObserver((entries) => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					entry.target.classList.add("visible");
+					revealObserver.unobserve(entry.target);
+				}
+			});
+		}, { threshold: 0.08, rootMargin: "0px 0px -60px 0px" });
+		document.querySelectorAll(".reveal, .reveal-scale, .reveal-left, .reveal-right").forEach(el => revealObserver.observe(el));
+	</script>
+</body>
+
+</html>

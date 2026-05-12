@@ -4,22 +4,18 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Terms of Service | The Daly Creative</title>
+	<title>Blog | The Daly Creative</title>
 	<meta name="description"
-		content="Terms of Service for The Daly Creative. Our agreement terms for web design, branding, and digital services." />
+		content="Notes, essays and field reports on web development, AI strategy, branding and cyber security from Tim Daly and The Daly Creative." />
 	<link rel="icon" type="image/png" href="images/icons/icon-x256.png" />
-
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
-	<link rel="stylesheet"
-		href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css" />
-	<link rel="stylesheet"
-		href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-rounded/css/uicons-solid-rounded.css" />
+	<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css" />
+	<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-rounded/css/uicons-solid-rounded.css" />
 	<link rel="stylesheet" href="styles.css" />
 </head>
 
-<body class="legal-page">
-	<!-- ===== NAVIGATION ===== -->
-	<!-- ===== NAVIGATION ===== -->
+<body>
+	<!-- ===== NAV BAR ===== -->
 	<nav>
 		<div class="nav-container">
 			<a href="index.html" class="logo">
@@ -112,7 +108,7 @@
 						</div>
 					</div>
 				</li>
-				<li data-color="coral"><a href="blog.html">Blog</a></li>
+				<li data-color="coral"><a href="blog.html" class="active">Blog</a></li>
 				<li><a href="contact.html" class="nav-cta">Start a Project <i class="bi bi-arrow-right nav-icon"></i></a></li>
 			</ul>
 
@@ -120,85 +116,100 @@
 		</div>
 	</nav>
 
-
-	<!-- ===== CONTENT ===== -->
-	<div class="legal-content">
-		<h1>Terms of Service</h1>
-		<p class="legal-date">Last updated: 15 February 2026</p>
-
-		<div class="legal-summary">
-			<h3>Plain English Summary</h3>
-			<p>
-				You approve a quote and pay a 25% deposit to begin. Deposits are
-				non-refundable. Pay within 14 days. You own final work once paid in full
-				(for business use), but you can't resell it. We provide two weeks of
-				complimentary support. Ongoing support requires a subscription. We're not
-				responsible for third-party platform issues or indirect losses.
-			</p>
+	<!-- ===== BLOG HERO ===== -->
+	<section class="blog-hero">
+		<div class="container">
+			<div class="blog-hero-inner reveal">
+				<div class="hero-tag">Field Notes</div>
+				<h1 class="text-display">The <span class="hero-accent-text">Journal</span></h1>
+				<p class="hero-lead">
+					Plain-English notes on web development, practical AI, brand strategy and cyber security — written for business owners, not engineers.
+				</p>
+			</div>
 		</div>
+	</section>
 
-		<h2>1. Our Agreement</h2>
-		<p>
-			Engagement begins when you approve a written quote and pay a 25% deposit.
-			Delays caused by late content, approvals or feedback may extend timelines.
-		</p>
+	<!-- ===== FEATURED POST ===== -->
+	<section class="blog-featured">
+		<div class="container">
+			<a href="blog-strategic-logic-beats-pretty-pixels.html" class="featured-post reveal">
+				<div class="featured-post-meta">
+					<span class="featured-label">Featured</span>
+					<span class="post-category">Web Strategy</span>
+				</div>
+				<h2>Strategic logic beats pretty pixels every time.</h2>
+				<p>Most "bad" websites aren't ugly. They're decisions made in the wrong order — design before strategy, features before goals. Here's how I think about it.</p>
+				<div class="post-byline">
+					<span><i class="bi bi-person-circle"></i> Tim Daly</span>
+					<span><i class="bi bi-calendar3"></i> April 2026</span>
+					<span><i class="bi bi-clock"></i> 6 min read</span>
+				</div>
+				<span class="read-more">Read the article <i class="bi bi-arrow-right"></i></span>
+			</a>
+		</div>
+	</section>
 
-		<h2>2. Payments and Fees</h2>
-		<p>
-			A 25% deposit is required upfront unless otherwise agreed in writing. The
-			remaining balance is due upon completion. Payment is required within 14 days
-			of invoice issue. Late payments may incur a reasonable administration fee.
-			Grow & Support Plan requires an active subscription.
-		</p>
+	<!-- ===== ARTICLES GRID ===== -->
+	<section class="blog-grid-section">
+		<div class="container">
+			<div class="blog-grid-header reveal">
+				<span class="section-label">All Articles</span>
+				<h2>More from the <span class="text-teal">Journal</span></h2>
+			</div>
 
-		<h2>3. Ownership & Intellectual Property</h2>
-		<p>
-			All work remains our property until full payment is received. Upon full
-			payment, you receive a non-exclusive, royalty-free licence for business use.
-			You may not resell or redistribute work without written permission. We may
-			showcase completed work unless confidentiality is requested.
-		</p>
+			<div class="blog-grid">
+				<a href="blog-practical-ai-small-business.html" class="blog-card reveal reveal-delay-1">
+					<div class="blog-card-tag blog-card-tag--orange">AI Strategy</div>
+					<h3>Practical AI for small business: where to start (and where not to).</h3>
+					<p>You don't need a "transformation strategy" — you need three small workflows worth automating. Here's a sensible map.</p>
+					<div class="post-byline">
+						<span><i class="bi bi-calendar3"></i> March 2026</span>
+						<span><i class="bi bi-clock"></i> 7 min</span>
+					</div>
+				</a>
 
-		<h2>4. Advertising Accounts</h2>
-		<p>
-			Advertising accounts created by us are managed by The Daly Creative on
-			behalf of the client. Transfer requests must be agreed in writing and may
-			incur administrative fees.
-		</p>
+				<a href="blog-real-cost-of-a-cheap-website.html" class="blog-card reveal reveal-delay-2">
+					<div class="blog-card-tag blog-card-tag--purple">Web Development</div>
+					<h3>The real cost of a cheap website (and how to avoid paying twice).</h3>
+					<p>A $500 website often costs $5,000. Here's why — and the four questions that protect you from a rebuild in eighteen months.</p>
+					<div class="post-byline">
+						<span><i class="bi bi-calendar3"></i> February 2026</span>
+						<span><i class="bi bi-clock"></i> 5 min</span>
+					</div>
+				</a>
 
-		<h2>5. Third-Party Platforms</h2>
-		<p>
-			We may use platforms including Wix, WordPress, Squarespace, Google
-			Workspace, GitHub, GoDaddy, Cloudflare, Shopify, Webflow and others. We are
-			not responsible for outages, policy changes, or pricing changes from these
-			providers.
-		</p>
+				<a href="blog-cyber-security-basics-perth-business.html" class="blog-card reveal reveal-delay-3">
+					<div class="blog-card-tag blog-card-tag--teal">Cyber Security</div>
+					<h3>Cyber security basics every Perth small business needs in 2026.</h3>
+					<p>Most breaches aren't sophisticated. They're boring. Here are the seven boring things that block 90% of the attacks aimed at small businesses.</p>
+					<div class="post-byline">
+						<span><i class="bi bi-calendar3"></i> January 2026</span>
+						<span><i class="bi bi-clock"></i> 8 min</span>
+					</div>
+				</a>
+			</div>
+		</div>
+	</section>
 
-		<h2>6. Support</h2>
-		<p>
-			Two weeks complimentary support for bug fixes following completion. Grow &
-			Support Plan may be cancelled with 30 days' written notice.
-		</p>
-
-		<h2>7. Limitation of Liability</h2>
-		<p>
-			Liability is limited to fees paid for the relevant service. We are not
-			liable for indirect or consequential losses.
-		</p>
-
-		<h2>8. Governing Law</h2>
-		<p>Governed by the laws of Western Australia, Australia.</p>
-
-		<button class="btn btn--ghost" onclick="window.print()" style="margin-top: 2rem;">
-			<i class="bi bi-download"></i> Download as PDF
-		</button>
-	</div>
+	<!-- ===== CTA ===== -->
+	<section class="cta-section">
+		<div class="container">
+			<div class="text-center reveal reveal-delay-1">
+				<h2 style="font-family: 'Fraunces', serif; font-size: 2.2rem; margin-bottom: 1rem;">Got a question worth writing about?</h2>
+				<p style="font-size: 1.1rem; color: var(--slate); margin-bottom: 2rem; max-width: 520px; margin-left: auto; margin-right: auto;">
+					Some of the best articles here started as a client question. If you've got one — about web, AI, branding or security — send it through.
+				</p>
+				<a href="contact.html" class="btn btn--accent btn--lg">
+					Ask a Question <i class="bi bi-arrow-right"></i>
+				</a>
+			</div>
+		</div>
+	</section>
 
 	<!-- ===== FOOTER ===== -->
 	<footer class="site-footer">
 		<div class="container">
 			<div class="footer-grid">
-				<!-- Brand Column -->
 				<div class="footer-brand">
 					<a href="index.html">
 						<img src="images/icons/logo-1300x507.png" alt="The Daly Creative" style="height: 44px; width: auto; margin-bottom: 1.25rem;" />
@@ -223,7 +234,6 @@
 					</div>
 				</div>
 
-				<!-- Services Column -->
 				<div>
 					<h4 class="footer-heading">Services</h4>
 					<ul class="footer-links">
@@ -235,7 +245,6 @@
 					</ul>
 				</div>
 
-				<!-- Company Column -->
 				<div>
 					<h4 class="footer-heading">Company</h4>
 					<ul class="footer-links">
@@ -247,7 +256,6 @@
 					</ul>
 				</div>
 
-				<!-- Get in Touch Column -->
 				<div>
 					<h4 class="footer-heading">Get in Touch</h4>
 					<ul class="footer-links">
@@ -279,13 +287,11 @@
 	</footer>
 
 	<script>
-		// Navbar scroll
 		const nav = document.querySelector("nav");
 		window.addEventListener("scroll", () => {
 			nav.classList.toggle("nav--scrolled", window.scrollY > 40);
 		}, { passive: true });
 
-		// Scroll reveal
 		const revealObserver = new IntersectionObserver((entries) => {
 			entries.forEach(entry => {
 				if (entry.isIntersecting) {
@@ -296,25 +302,9 @@
 		}, { threshold: 0.08, rootMargin: "0px 0px -60px 0px" });
 		document.querySelectorAll(".reveal, .reveal-scale, .reveal-left, .reveal-right").forEach(el => revealObserver.observe(el));
 
-		// Mobile nav close
 		document.querySelectorAll(".nav-links a").forEach(link => {
 			link.addEventListener("click", () => { document.getElementById("nav-toggle").checked = false; });
 		});
-
-		// Magnetic button effect
-		if (window.matchMedia("(min-width: 768px) and (hover: hover)").matches) {
-			document.querySelectorAll(".btn--accent, .nav-cta, .footer-cta").forEach(btn => {
-				btn.addEventListener("mousemove", function(e) {
-					const rect = this.getBoundingClientRect();
-					const x = e.clientX - rect.left - rect.width / 2;
-					const y = e.clientY - rect.top - rect.height / 2;
-					this.style.transform = `translateY(-3px) translate(${x * 0.12}px, ${y * 0.12}px)`;
-				});
-				btn.addEventListener("mouseleave", function() {
-					this.style.transform = "";
-				});
-			});
-		}
 	</script>
 </body>
 
