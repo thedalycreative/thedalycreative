@@ -1,11 +1,8 @@
 # G'day, I'm Tim 👋
 
-Freelance web developer (front-end / full-stack) and industry trainer based
-in Perth, Western Australia.
+Trainer & Industry Specialist at **Equinim College** by day, and founder of **The Daly Creative** the rest of the time. Based in Perth, Western Australia.
 
-By day I teach the next cohort of devs at **Equinim College**. The rest of
-the time I take small-to-medium freelance briefs — usually small business
-sites, internal tools, or "we have an idea, can you make it real?" prototypes.
+I teach the next cohort of devs — currently Intake 26.13 WA, fully online — and between classes I take small-to-medium freelance briefs through TDC: brand identity, web development, and the odd *"we have an idea, can you make it real?"* prototype.
 
 ### What I'm working with
 
@@ -14,16 +11,31 @@ sites, internal tools, or "we have an idea, can you make it real?" prototypes.
 - **Tooling:** Vite, Tailwind, Vercel, Render, GitHub Pages
 - **Habits:** semantic HTML, real accessibility (not just lighthouse-score chasing), readable code with comments my students can follow
 
-### A few things I've shipped
+### Recent client work (via The Daly Creative)
 
-- 🏫 [Equinim College Perth Campus Dashboard](https://github.com/thedalycreative/eqc-perth-campus-dashboard) — live lobby dashboard, real-time room allocations + announcements
-- 🏠 [Perth Renter Rights Hub](https://github.com/thedalycreative/renter-rights-hub) — plain-English WA tenancy law, powered by Gemini
-- 🎁 [ShockDave: Unlock the Gift](https://github.com/thedalycreative/shock-dave) — 25-puzzle interactive gift
-- 🎙 [Away With The Fairies](https://github.com/thedalycreative/away-with-the-fairies-proposal) — RTRFM podcast proposal
+- 🎭 [Liam Graham — Actor](https://github.com/thedalycreative/liam-graham-actor) — bespoke editorial portfolio for a Scottish-born Australian screen actor
+- 🎵 [Matt Walford Music](https://github.com/thedalycreative/matt-walford-music) — artist site for a Perth-based musician
+- 🏥 [Dora Health](https://www.dorahealth.com.au) — healthcare services site
+- 🛠 [WCE Pros](https://www.wcepros.com) — trades & services business site
+- 🥟 [Drumplings](https://www.drumplings.com) — food brand site
+- 🖼 [Preservation Framers](https://www.preservationframers.com.au) — Perth framing studio
+
+### Teaching at EQC
+
+- 🏫 [EQC Perth Campus Dashboard](https://www.perth-eqc.xyz/) ([repo](https://github.com/thedalycreative/eqc-welcome-board)) — live lobby dashboard with real-time room allocations + announcements, built with Intake 25g
+- 🦘 [Quokka Careers](https://github.com/thedalycreative/quokka-careers) — roleplay recruitment portal where students 'apply' for roles in a fictional firm. Glassmorphism + custom design system.
+- 🐾 [Perth Paws](https://github.com/thedalycreative/perth-paws) — demo pet-services site, used as a teaching example for layout + responsive patterns
+
+### Side projects
+
+- 🇦🇺 [Sqwerdle](https://github.com/thedalycreative/sqwerdle-game) — Aussie word search for cheeky legends. Next.js 14 + Tailwind.
+- 🎁 [Shockwave](https://github.com/thedalycreative/game-shockwave) — 25-puzzle interactive gift experience. Cooldowns, penalties, confetti, the works.
+- 🏠 [Renter Rights Hub](https://github.com/thedalycreative/renter-rights-hub) — plain-English WA tenancy law, powered by Gemini 2.5 Flash. Bond calculator + template letters for Perth renters.
+- 📄 [tim-daly-cv](https://github.com/thedalycreative/tim-daly-cv) — online CV / resume site, deployed to GitHub Pages
 
 ### Open to work
 
 Small briefs, training gigs, and collaborations welcome.
 👉 [thedalycreative.com](https://thedalycreative.com)
 
-*Currently teaching Intake 26B — say hi if you're a former student.*
+*Currently teaching Intake 26.13 WA (online) — say hi if you're a former student.*
