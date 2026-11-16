@@ -274,8 +274,8 @@ Training-session feedback form with searchable topics and star ratings, built so
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dorahealth-website-2026.vercel.app"><img src="assets/screens/dora-health.jpg" alt="Dora Health & Wellbeing"/></a>
-<br/><b><a href="https://dorahealth-website-2026.vercel.app">Dora Health & Wellbeing</a></b><br/>
+<a href="https://dora-health-and-wellbeing.vercel.app"><img src="assets/screens/dora-health.jpg" alt="Dora Health & Wellbeing"/></a>
+<br/><b><a href="https://dora-health-and-wellbeing.vercel.app">Dora Health & Wellbeing</a></b><br/>
 End-to-end branding, website, style guide and digital ecosystem for a Perth in-home care startup. Calm, dignified and very lotus-forward.
 <br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
@@ -356,16 +356,16 @@ Live classroom dashboard: class number, trainer, today's topics, attendance, a R
 <br/><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://eqc-intake-25g.vercel.app"><img src="assets/screens/eqc-quokka-squad-25g.jpg" alt="Quokka Squad (Intake 25g)"/></a>
-<br/><b><a href="https://eqc-intake-25g.vercel.app">Quokka Squad (Intake 25g)</a></b><br/>
+<a href="https://eqc-hub-25g.vercel.app"><img src="assets/screens/eqc-quokka-squad-25g.jpg" alt="Quokka Squad (Intake 25g)"/></a>
+<br/><b><a href="https://eqc-hub-25g.vercel.app">Quokka Squad (Intake 25g)</a></b><br/>
 "G'day Quokkas!" A friendly landing pad for the intake: schedules, resources, quick links and a QR attendance check-in.
 <br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://class-page-inky.vercel.app"><img src="assets/screens/eqc-class-page-25g.jpg" alt="Class Page (Intake 25g)"/></a>
-<br/><b><a href="https://class-page-inky.vercel.app">Class Page (Intake 25g)</a></b><br/>
+<a href="https://eqc-hub-25g.vercel.app"><img src="assets/screens/eqc-class-page-25g.jpg" alt="Class Page (Intake 25g)"/></a>
+<br/><b><a href="https://eqc-hub-25g.vercel.app">Class Page (Intake 25g)</a></b><br/>
 Subject-by-subject project briefs, a daily trivia game and an attendance leaderboard. Turning up on time has never been so competitive.
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
@@ -384,7 +384,7 @@ Week-by-week schedule, lesson decks, downloads, cheat sheets and attendance for 
 <br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://eqc-2613-classhub.vercel.app"><img src="assets/screens/eqc-hub-2613.jpg" alt="Tim's EQC Minions (Intake 26.13)"/></a>
+<a href="https://eqc-hub-2613.vercel.app"><img src="assets/screens/eqc-hub-2613.jpg" alt="Tim's EQC Minions (Intake 26.13)"/></a>
 <br/><b><a href="https://github.com/thedalycreative/eqc-hub-2613">Tim's EQC Minions (Intake 26.13)</a></b><br/>
 Class hub for Apple <i>and</i> Windows warriors: setup guide, attendance, weekly classes, resources and cheat sheets. 24 classes, course complete.
 <br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/status-course_complete-2f6b4f?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1iYWRnZS1jaGVjayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgPiA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8%2BIDxwYXRoIGQ9Im0xNiA5LTUuNSA1LjVMOCAxMiIgLz4gPC9zdmc%2B" alt="status course complete"/>
@@ -423,14 +423,14 @@ First-day icebreaker for 26B: two truths and a lie each, click to reveal. Friend
 <br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/>
 </td>
 <td width="33%" valign="top">
-<a href="https://webdev-bootstrap.vercel.app"><img src="assets/screens/bootstrap-hiring-ceremony.jpg" alt="Bootstrap Hiring Ceremony"/></a>
-<br/><b><a href="https://webdev-bootstrap.vercel.app">Bootstrap Hiring Ceremony</a></b><br/>
+<a href="https://eqc-hiring-generator.vercel.app"><img src="assets/screens/bootstrap-hiring-ceremony.jpg" alt="Bootstrap Hiring Ceremony"/></a>
+<br/><b><a href="https://eqc-hiring-generator.vercel.app">Bootstrap Hiring Ceremony</a></b><br/>
 Students arrive as employee cards and get theatrically "hired" by nonsense companies before the timer starts. HR has concerns.
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="33%" valign="top">
-<a href="https://skywings-activity.vercel.app"><img src="assets/screens/skywings.jpg" alt="SkyWings"/></a>
-<br/><b><a href="https://skywings-activity.vercel.app">SkyWings</a></b><br/>
+<a href="https://eqc-bootstrap-clone-skywings.vercel.app"><img src="assets/screens/skywings.jpg" alt="SkyWings"/></a>
+<br/><b><a href="https://eqc-bootstrap-clone-skywings.vercel.app">SkyWings</a></b><br/>
 Luxury resort demo for the 26b Bootstrap build-along. Your ultimate resort awaits. So does your assignment.
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
@@ -483,14 +483,14 @@ Party game: join with a 4-letter code from the big screen, bluff your mates, spo
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://nugget-warriors-party.vercel.app"><img src="assets/screens/class-games-hub.jpg" alt="Class Games Hub"/></a>
-<br/><b><a href="https://nugget-warriors-party.vercel.app">Class Games Hub</a></b><br/>
+<a href="https://eqc-class-games.vercel.app"><img src="assets/screens/class-games-hub.jpg" alt="Class Games Hub"/></a>
+<br/><b><a href="https://eqc-class-games.vercel.app">Class Games Hub</a></b><br/>
 Emoji movie guessing, an AI prompts playground and two-truths-and-a-lie, bundled for class breaks. Officially "engagement activities".
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://ask-game.vercel.app"><img src="assets/screens/ask-me.jpg" alt="Ask Me"/></a>
-<br/><b><a href="https://ask-game.vercel.app">Ask Me</a></b><br/>
+<a href="https://ask-me-game-lyart.vercel.app"><img src="assets/screens/ask-me.jpg" alt="Ask Me"/></a>
+<br/><b><a href="https://ask-me-game-lyart.vercel.app">Ask Me</a></b><br/>
 Conversation-starter game: pick a pack, get a question, keep the chat going. Awkward silences, eliminated.
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
