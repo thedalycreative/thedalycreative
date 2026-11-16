@@ -503,7 +503,7 @@ Conversation-starter game: pick a pack, get a question, keep the chat going. Awk
 
 ## Side projects &nbsp;<sub>a.k.a. what I do instead of sleeping</sub>
 
-<a href="https://pink-power-ranger-alex.vercel.app"><img src="assets/screens/pink-power-ranger.jpg" alt="Pink Ranger of Cloverdale"/></a>
+<a href="https://pink-power-ranger.vercel.app"><img src="assets/screens/pink-power-ranger.jpg" alt="Pink Ranger of Cloverdale"/></a>
 
 **[Pink Ranger of Cloverdale](https://github.com/thedalycreative/pink-power-ranger)**: a classified mission briefing from the Pet Council of Cloverdale. Recipient: Alex. Priority: pink. Endorsed by four very serious animals. Neon glow, classified stamps, zero chill.
 
