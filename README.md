@@ -154,6 +154,63 @@ Scripting, live panels, audio editing; three community media awards.
 
 ---
 
+## Featured projects &nbsp;<sub>live demos, source, screenshots</sub>
+
+Every one of these has a README with setup steps, deployment notes and screenshots.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://eqc-hub-25j.vercel.app"><img src="assets/screens/featured-eqc-hub-25j.jpg" alt="EQC Hub: Intake 25J"/></a>
+<br/><b>EQC Hub: Intake 25J</b><br/>
+Big-screen classroom hub plus a live dashboard: animated counters, Chart.js charts and an activity feed that refreshes on its own.
+<br/><a href="https://eqc-hub-25j.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/eqc-hub-25J">Repo</a>
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://housemate-tracker.vercel.app"><img src="assets/screens/featured-housemate-tracker.jpg" alt="Housemate Tracker"/></a>
+<br/><b>Housemate Tracker</b><br/>
+Split shared bills, rotate the cleaning roster and keep inspections and tradie visits on one house calendar. Peace in the share house, finally.
+<br/><a href="https://housemate-tracker.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/housemate-tracker">Repo</a>
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://get-stuff-done-v3.vercel.app"><img src="assets/screens/featured-get-stuff-done-v3.jpg" alt="GetStuffDone v3"/></a>
+<br/><b>GetStuffDone v3</b><br/>
+Full-stack to-do app: Express + MongoDB API running as a Vercel function, with an in-browser demo mode so it works with no database.
+<br/><a href="https://get-stuff-done-v3.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/get-stuff-done-v3">Repo</a>
+<br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://perth-paw-ping.vercel.app"><img src="assets/screens/featured-perth-paw-ping.jpg" alt="Perth Paw Ping"/></a>
+<br/><b>Perth Paw Ping</b><br/>
+Animated landing pages and brand kit for PawPing smart QR pet tags and Pawfection dog services.
+<br/><a href="https://perth-paw-ping.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/perth-paw-ping">Repo</a>
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://west-coast-exterior-pros.vercel.app"><img src="assets/screens/featured-west-coast-exterior-pros.jpg" alt="West Coast Exterior Pros"/></a>
+<br/><b>West Coast Exterior Pros</b><br/>
+Marketing site for a WA exterior-cleaning business: solar, roofs, gutters, windows and pressure cleaning.
+<br/><a href="https://west-coast-exterior-pros.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/west-coast-exterior-pros">Repo</a>
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://eqc-hub-25g.vercel.app"><img src="assets/screens/featured-eqc-hub-25g.jpg" alt="EQC Hub: Quokka Squad (25G)"/></a>
+<br/><b>EQC Hub: Quokka Squad (25G)</b><br/>
+Class hub for Intake 25G: weekly plan, schedule and checklist, resources and QR attendance.
+<br/><a href="https://eqc-hub-25g.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/eqc-hub-25G">Repo</a>
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## Client work &nbsp;<sub>via The Daly Creative</sub>
 
 <table>
@@ -277,10 +334,10 @@ Every intake gets its own hub: class links, cheat sheets, schedules and code, al
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://intake-25g-dashboard.vercel.app"><img src="assets/screens/eqc-classhub-25g.jpg" alt="Intake 25g Classroom Dashboard"/></a>
-<br/><b><a href="https://intake-25g-dashboard.vercel.app">Intake 25g Classroom Dashboard</a></b><br/>
-Live classroom dashboard: class number, trainer, today's topics, attendance, a Riz Quiz leaderboard and course progress. Built for 25g, and the template now runs 26B too.
-<br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<a href="https://eqc-hub-25j.vercel.app"><img src="assets/screens/featured-eqc-hub-25j.jpg" alt="Intake 25J Classroom Hub"/></a>
+<br/><b><a href="https://github.com/thedalycreative/eqc-hub-25J">Intake 25J Classroom Hub</a></b><br/>
+Live classroom dashboard: class number, trainer, today's topics, attendance, a Riz Quiz leaderboard and course progress, plus a <a href="https://eqc-hub-25j.vercel.app/dashboard.html">live stats dashboard</a>. Started life with 25g; same template, new intake.
+<br/><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="50%" valign="top">
 <a href="https://eqc-intake-25g.vercel.app"><img src="assets/screens/eqc-quokka-squad-25g.jpg" alt="Quokka Squad (Intake 25g)"/></a>
@@ -330,10 +387,10 @@ Class hub for Apple <i>and</i> Windows warriors: setup guide, attendance, weekly
 <br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
 </td>
 <td width="33%" valign="top">
-<a href="https://perthpaws.xyz"><img src="assets/screens/perth-paws.jpg" alt="PawPing (Perth Paws)"/></a>
-<br/><b><a href="https://github.com/thedalycreative/perth-paws">PawPing (Perth Paws)</a></b><br/>
-Demo pet-tracker landing page for layout and responsive patterns. Know where they are. Always. (Unlike my students at 9am.)
-<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<a href="https://get-stuff-done-v3.vercel.app"><img src="assets/screens/featured-get-stuff-done-v3.jpg" alt="GetStuffDone v3"/></a>
+<br/><b><a href="https://github.com/thedalycreative/get-stuff-done-v3">GetStuffDone v3</a></b><br/>
+The full-stack to-do app the back-end units are built around. Every line commented, because future-me forgets too.
+<br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="33%" valign="top">
 <a href="https://thedalycreative.github.io/whipped-and-saddled-co/"><img src="assets/screens/whipped-and-saddled-co.jpg" alt="Whipped Saddled & Co."/></a>
@@ -369,7 +426,6 @@ Luxury resort demo for the 26b Bootstrap build-along. Your ultimate resort await
 **Also in the classroom**
 
 - [Harry Potter: Forbidden Forrest](https://github.com/thedalycreative/harry-potter-forbidden-forrest): Bootstrap clone assignment ([live](https://hp-forbidden-forest-clone.vercel.app))
-- [GetStuffDone v3](https://github.com/thedalycreative/eqc-getstuffdone-v3): full-stack to-do app, teaching material for the intro back-end units
 - [GetStuffDone v2](https://github.com/thedalycreative/eqc-getstuffdone-v2): beginner-friendly to-do app for learning back-end basics
 - [slot-pick](https://github.com/thedalycreative/slot-pick): classroom project
 - [apple-clone-bootstrap](https://github.com/thedalycreative/apple-clone-bootstrap): Bootstrap clone exercise
