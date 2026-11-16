@@ -163,7 +163,7 @@ Every one of these has a README with setup steps, deployment notes and screensho
 <td width="50%" valign="top">
 <a href="https://eqc-hub-25j.vercel.app"><img src="assets/screens/featured-eqc-hub-25j.jpg" alt="EQC Hub: Intake 25J"/></a>
 <br/><b>EQC Hub: Intake 25J</b><br/>
-Big-screen classroom hub plus a live dashboard: animated counters, Chart.js charts and an activity feed that refreshes on its own.
+One big-screen live dashboard: progress ring, animated stats, Riz Quiz leaderboard, attendance and an activity feed that refreshes on its own.
 <br/><a href="https://eqc-hub-25j.vercel.app">Live demo</a> · <a href="https://github.com/thedalycreative/eqc-hub-25J">Repo</a>
 <br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
