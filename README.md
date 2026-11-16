@@ -460,8 +460,8 @@ Luxury resort demo for the 26b Bootstrap build-along. Your ultimate resort await
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="https://sqwerdle-game.vercel.app"><img src="assets/screens/sqwerdle-game-mobile.jpg" width="230" alt="Scwerdiality (Sqwerdle)"/></a>
-<br/><b><a href="https://github.com/thedalycreative/sqwerdle-game">Scwerdiality (Sqwerdle)</a></b><br/>
+<a href="https://game-sqwerdle.vercel.app"><img src="assets/screens/sqwerdle-game-mobile.jpg" width="230" alt="Scwerdiality (Sqwerdle)"/></a>
+<br/><b><a href="https://github.com/thedalycreative/game-sqwerdle">Scwerdiality (Sqwerdle)</a></b><br/>
 Aussie word search for cheeky legends. Drag to spell a word, mate. Hints come with the appropriate amount of "ya galah". New colour theme every board.
 <br/><img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 14"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </td>
@@ -472,8 +472,8 @@ A 25-puzzle birthday gift with cooldowns, penalties and confetti. "We both know 
 <br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://see-you-next-tuesday-six.vercel.app"><img src="assets/screens/see-you-next-tuesday-mobile.jpg" width="230" alt="C U Next Tuesday"/></a>
-<br/><b><a href="https://see-you-next-tuesday-six.vercel.app">C U Next Tuesday</a></b><br/>
+<a href="https://game-c-u-next-tuesday.vercel.app"><img src="assets/screens/see-you-next-tuesday-mobile.jpg" width="230" alt="C U Next Tuesday"/></a>
+<br/><b><a href="https://game-c-u-next-tuesday.vercel.app">C U Next Tuesday</a></b><br/>
 Party game: join with a 4-letter code from the big screen, bluff your mates, spot the truth. Big party-game energy, questionable name.
 <br/><img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
@@ -489,8 +489,8 @@ Emoji movie guessing, an AI prompts playground and two-truths-and-a-lie, bundled
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://ask-me-game-lyart.vercel.app"><img src="assets/screens/ask-me.jpg" alt="Ask Me"/></a>
-<br/><b><a href="https://ask-me-game-lyart.vercel.app">Ask Me</a></b><br/>
+<a href="https://game-ask-me.vercel.app"><img src="assets/screens/ask-me.jpg" alt="Ask Me"/></a>
+<br/><b><a href="https://game-ask-me.vercel.app">Ask Me</a></b><br/>
 Conversation-starter game: pick a pack, get a question, keep the chat going. Awkward silences, eliminated.
 <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
