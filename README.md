@@ -15,6 +15,7 @@
 
 <a href="https://thedalycreative.com"><img src="https://img.shields.io/badge/The_Daly_Creative-thedalycreative.com-f5a524?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1wZW4tdG9vbCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgPiA8cGF0aCBkPSJtMTggMTMtLjY1NC00LjczNmE0IDQgMCAwMC0yLjc1Ni0zLjI2NmwtOS4xNjMtMi45YTIgMiAwIDAwLTIuMDE3LjQ5M2wtLjgyLjgxOWEyIDIgMCAwMC0uNDkyIDIuMDE3bDIuOSA5LjE2M2E0IDQgMCAwMDMuMjY2IDIuNzU2TDEzIDE4IiAvPiA8cGF0aCBkPSJNMTguNjQ4IDEyLjM1MmExLjIwNSAxLjIwNSAwIDAxMS43MDQgMGwxLjI5NiAxLjI5NmExLjIwNSAxLjIwNSAwIDAxMCAxLjcwNGwtNi4yOTYgNi4yOTZhMS4yMDUgMS4yMDUgMCAwMS0xLjcwNCAwbC0xLjI5Ni0xLjI5NmExLjIwNSAxLjIwNSAwIDAxMC0xLjcwNHoiIC8%2BIDxwYXRoIGQ9Im0zIDMgNi41ODYgNi41ODYiIC8%2BIDxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjIiIC8%2BIDwvc3ZnPg%3D%3D&labelColor=1e3a2f" alt="The Daly Creative thedalycreative.com"/></a>
 <a href="https://linkedin.com/in/thetimdaly"><img src="https://img.shields.io/badge/LinkedIn-thetimdaly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn thetimdaly"/></a>
+<a href="https://thedalycreative.github.io/tim-daly-resumes/"><img src="https://img.shields.io/badge/Resume-view_%26_download-0f766e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume: view and download"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Based_in-Perth_%2F_Melbourne-2f6b4f?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXAtcGluIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxwYXRoIGQ9Ik0yMCAxMGMwIDQuOTkzLTUuNTM5IDEwLjE5My03LjM5OSAxMS43OTlhMSAxIDAgMCAxLTEuMjAyIDBDOS41MzkgMjAuMTkzIDQgMTQuOTkzIDQgMTBhOCA4IDAgMCAxIDE2IDAiIC8%2BIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjMiIC8%2BIDwvc3ZnPg%3D%3D" alt="Based in Perth / Melbourne"/>
 <img src="https://img.shields.io/badge/Open_to-briefs,_training_%26_collabs-f5a524?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1icmllZmNhc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiID4gPHBhdGggZD0iTTE2IDIwVjRhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjE2IiAvPiA8cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPiA8L3N2Zz4%3D" alt="Open to briefs, training & collabs"/>
@@ -98,26 +99,28 @@
 
 ## Where I've done the tech things
 
-### Founder & Creative Director
+<sub>📄 Full history, qualifications and PDFs: <a href="https://thedalycreative.github.io/tim-daly-resumes/"><b>my resumes</b></a></sub>
+
+### <img src="assets/logos/tdc.png" width="28" height="28" align="absmiddle" alt=""> &nbsp;Founder & Creative Director
 **The Daly Creative** &nbsp;·&nbsp; `Feb 2025 – now`
 - Full client lifecycle: scoping, design systems, React/Tailwind builds, deployment on Vercel/Netlify/GitHub Pages, and ongoing support.
 - Built reusable **Claude-based skills and automated workflows** for client and internal use.
 - Delivered sites and brand systems across hospitality, health, framing, music, acting and trades.
 
-### Trainer & Industry Specialist
+### <img src="assets/logos/equinim.png" width="28" height="28" align="absmiddle" alt=""> &nbsp;Trainer & Industry Specialist
 **EQC Institute of Technology (Equinim College, RTO 45758)** &nbsp;·&nbsp; `Oct 2025 – now`
 - Teach the **front-end web development** and **client relations** units of the Diploma of IT (Back-End Web Development): HTML/CSS/JS, responsive layout, Bootstrap, Git, plus scoping briefs and managing client expectations.
 - Built student-facing tools: an interactive **Three.js 3D campus map**, rendered floor plans, digital signage and HTML slide decks.
 - Run a dedicated **student hub site for every intake** (see below).
 
-### Technology Administrator
+### <img src="assets/logos/transport.png" width="28" height="28" align="absmiddle" alt=""> &nbsp;Technology Administrator
 **Department of Transport WA** &nbsp;·&nbsp; `Jun 2024 – Jan 2025`
 - Administered **Oracle DayForce** (payroll/HCM) and **ELMO** (LMS) for a department-wide user base; 2IC in a team of six.
 - **Cut the online-training update cycle by ~20%** through process redesign.
 - **Automated staff notifications** for banking-detail changes, reducing inbound HR queries.
 - Shipped in-house **Employee Self Service** updates, so fewer expensive calls to Oracle support.
 
-### Court Technology & Resource Officer
+### <img src="assets/logos/supreme.png" width="28" height="28" align="absmiddle" alt=""> &nbsp;Court Technology & Resource Officer
 **Supreme Court of WA (Department of Justice)** &nbsp;·&nbsp; `Jul 2023 – May 2024`
 - Led the build and launch of the **Supreme Court staff intranet**.
 - Moved courtroom booking from manual to an **integrated digital calendar system**.
@@ -127,25 +130,25 @@
 <summary><b>The prequel (2003 – 2022): the bit that taught me to stay calm under pressure</b></summary>
 <br/>
 
-<h4>Court Support Officer &nbsp;·&nbsp; WA District Court</h4>
+<h4><img src="assets/logos/doj.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Court Support Officer &nbsp;·&nbsp; WA District Court</h4>
 Tightened civil subpoena workflows end to end.
 
-<h4>Resident Support Team Leader &nbsp;·&nbsp; COVID-19 Quarantine Victoria</h4>
+<h4><img src="assets/logos/vic.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Resident Support Team Leader &nbsp;·&nbsp; COVID-19 Quarantine Victoria</h4>
 Ran a team of 60+, rolled out policy and SOP updates on Microsoft 365.
 
-<h4>Digital Solutions Specialist &nbsp;·&nbsp; White Pages / Sensis</h4>
+<h4><img src="assets/logos/sensis.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Digital Solutions Specialist &nbsp;·&nbsp; White Pages / Sensis</h4>
 Sold and supported small-business digital adoption, built performance metrics, ran remote training. Top Overall Performer.
 
-<h4>Customer Retention Specialist &nbsp;·&nbsp; Medibank</h4>
+<h4><img src="assets/logos/medibank.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Customer Retention Specialist &nbsp;·&nbsp; Medibank</h4>
 Designed process workflows for the sales team.
 
-<h4>Cabin Crew &nbsp;·&nbsp; Jetstar Airways</h4>
+<h4><img src="assets/logos/jetstar.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Cabin Crew &nbsp;·&nbsp; Jetstar Airways</h4>
 A320/A321 safety and service; 98% exam average; National Employee of the Month.
 
-<h4>Senior Technical Support &nbsp;·&nbsp; Westnet / iiNet</h4>
+<h4><img src="assets/logos/iinet.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Senior Technical Support &nbsp;·&nbsp; Westnet / iiNet</h4>
 Escalations, advanced troubleshooting, onboarding new techs. The "turn it off and on again" years.
 
-<h4>Presenter & Production Director &nbsp;·&nbsp; RTRfm 92.1</h4>
+<h4><img src="assets/logos/rtrfm.png" width="22" height="22" align="absmiddle" alt=""> &nbsp;Presenter & Production Director &nbsp;·&nbsp; RTRfm 92.1</h4>
 Scripting, live panels, audio editing; three community media awards.
 
 </details>
@@ -306,16 +309,16 @@ Brand refresh and site for a West Perth framing studio operating since 1986. I f
 <td width="50%" valign="top">
 <a href="https://thedalycreative.com"><img src="assets/screens/tdc-site.jpg" alt="The Daly Creative"/></a>
 <br/><b><a href="https://thedalycreative.com">The Daly Creative</a></b> &nbsp;<sub>thedalycreative.com</sub><br/>
-My studio site, v27: the 2026 revamp with a "sunset overprint" design system. "Websites that work harder than your last one." Also works harder than me on Fridays.<br/><sub>Source: <code>tdc-2026-agency-site</code> and <code>tdc-website-v27</code> (private), plus the older <a href="{GH}tdc-site">tdc-site</a>.</sub>
+My studio site, v27: the 2026 revamp with a "sunset overprint" design system. "Websites that work harder than your last one." Also works harder than me on Fridays.<br/><sub>Source: <code>tdc-2026-agency-site</code> and <code>tdc-website-v27</code> (private), plus the older <a href="https://github.com/thedalycreative/tdc-site">tdc-site</a>.</sub>
 <br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/repo-private-555555?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIgLz4gPHBhdGggZD0iTTcgMTFWN2E1IDUgMCAwIDEgMTAgMHY0IiAvPiA8L3N2Zz4%3D" alt="repo private"/>
 </td>
 <td width="50%" valign="top" align="center">
 <br/>
 <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200" alt="Cat working from home at a laptop"/>
 <br/><br/>
-<b><a href="https://github.com/thedalycreative/tim-daly-cv">tim-daly-cv</a></b><br/>
-My online CV, deployed to GitHub Pages. The cat wrote the cover letter.
-<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+<b><a href="https://thedalycreative.github.io/tim-daly-resumes/">My resumes</a></b> &nbsp;<sub><a href="https://github.com/thedalycreative/tim-daly-resumes">tim-daly-resumes</a></sub><br/>
+Learning &amp; Development and Master resumes as web pages, each with a one-click A4 PDF. The cat wrote the cover letter; cartoon me does the welcome.
+<br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/> <img src="https://img.shields.io/badge/PDF-A4-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF A4"/>
 </td>
 </tr>
 </table>
